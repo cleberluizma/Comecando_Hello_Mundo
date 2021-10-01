@@ -1,0 +1,32 @@
+GIT AULA
+-------------------------------------------------
+GIT COMMIT - PARA O REPOSITÓRIO LOCAL
+GIT PUSH - DO REPOSITORIO LOCAL AO REMOTO
+GIT SÃO OS REPOSITORIOS LOCAIS
+GIT COMMIT - VAI AO REPOSITORIO LOCAL
+GIT HUB - UM DOS REPOSITORIOS REMOTOS MAIS FAMOSOS
+GIT IGNORE
+COLABORAÇÃO - ISSUES
+FORKS - DAR CONTINUIDADE POR CONTA EM UM PROJETO
+--
+VSCode
+GitHubDesktop
+Git
+--
+sempre iniciar com Readme
+--
+Push - mando do repositório local ao remoto. 
+Commit - comentario da mudança
+Fatch -verifica se o local está igual ao remoto
+
+Pull - pegar do remoto, e trazer ao local
+
+--
+
+U - untracted - ainda não commitado
+M - modificado
+CTRL ENTER: commit
+CTRL P: Push
+--
+
+
