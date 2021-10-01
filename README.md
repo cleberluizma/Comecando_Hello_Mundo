@@ -6,3 +6,6 @@ Repositório criado diurante as aulas do Curso em Video para
 aprender mais sobre o GIT e GITHUB
 
 Linha inserida remotamente pelo SIte.
+
+Linha inserida pelo Visual Code.
+hello.
